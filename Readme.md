@@ -4,11 +4,11 @@ by Cathal Garvey, copyright 2016, released under GNU AGPLv3 or later.
 ### About
 This is my fourth or so try at an actual vCard parser/generator library in Go.
 I attribute this largely to the terribleness of the vCard/iCal format, which
-should probably be burned in entirity and replaced with either hCard or a sane
+should probably be burned in entirety and replaced with either hCard or a sane
 JSON specification.
 
 So, if you're planning to use this to somehow broaden the reach of vCard or
-further entrench its undeserved place in contacts and calander interchange, don't.
+further entrench its undeserved place in contacts and calendar interchange, don't.
 
 Instead, use this to maintain, badly, legacy interchange and weep a little every
 time you do.
